@@ -69,7 +69,6 @@ contract MyToken {
 
 
 ```
-First, go to https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.21+commit.d9974bed.js
 
 To compile the code, simply press ctrl + s and once the compilation is finished, click on the Ethereum icon on the leftmost side of the remix website right above the bug icon, and click on the orange "Deploy" button and then below it, the Deployed Contracts should be filled out
 and press on it and the functions should appear.
